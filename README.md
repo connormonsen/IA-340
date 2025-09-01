@@ -25,7 +25,7 @@ For academic purposes only
 
 ## content
 
-1. lab1
+1. [lab1](https://github.com/connormonsen/IA-340/blob/main/Lab1.ipynb)
 2. lab2
 3. lab3
 
